@@ -1,7 +1,8 @@
-<h1>How to to deploy a website on multiple EC2 instances using Ansible</h1>
+<h1>How to deploy a website on multiple EC2 instances using Ansible</h1>
 
 <h2>Description</h2>
-In this project I will be demonstrating how to set up a cloud based SIEM, as well as virtual machine in the cloud which will be the honeypot. It will have vulnerabilities to the internet which I will monitor and log the attacks from different ip addresses, from different countries all over the world. I will extract the failed log on data and ingest it into Azure Sentinel and present it on a world map so you can visualize where the attacks are coming from.
+Ansible is a powerful open-source IT automation tool for IT infrastructure management. It allows you to automate repetitive tasks, manage configurations, deploy applications, and orchestrate complex workflows. 
+In this project I will be demonstrating how I used Ansible to deploy a website on multiple EC2 instances.
 <br />
 
 
