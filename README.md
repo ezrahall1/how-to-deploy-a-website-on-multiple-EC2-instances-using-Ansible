@@ -20,14 +20,6 @@ In this project I will be demonstrating how I used Ansible to deploy a website o
 
 <h2>YouTube Demonstration </h2>
 
-[Cyber attacks demonstration using Azure Sentinel SIEM](https://youtu.be/sivRjWpcwpw)
-
 [How to to deploy a website on multiple EC2 instances using Ansible](https://youtu.be/NTNO9jtIkWw)
-
-<H3>Map of incoming attacks after 6 hours</H3>
-
-<img src="https://i.imgur.com/iYGlutN.png" height="80%" width="80%" alt="Image 14"/>
-
-
 
 </p>
