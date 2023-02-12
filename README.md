@@ -14,9 +14,9 @@ In this project I will be demonstrating how I used Ansible to deploy a website o
 
 - <b>AWS</b>
 
-<h2>Attacks from South  Korea coming in; Custom logs being output with geodata </h2>
+<h2>Website deployed to one of EC2 instances</h2>
 
-<img src="https://i.imgur.com/x3mLIuG.png" height="80%" width="80%" alt="Image 13"/>
+<img src="https://i.imgur.com/ua8EZsr.png" height="80%" width="80%" alt="Image 1"/>
 
 <h2>YouTube Demonstration </h2>
 
